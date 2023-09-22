@@ -1,4 +1,4 @@
-from rapidocr_onnxruntime import RapidOCR
+from rapidocr_onnxruntime import RapidOCR, VisRes
 
 engine = RapidOCR()
 
